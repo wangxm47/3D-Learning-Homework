@@ -4,12 +4,12 @@ Unity文件：HomeWork1---井字棋/井字棋/Assets/井字棋.unity
 
 ----------------------------
 ## Homework2---Priests and Devils
-Unity文件：Homework2\Priests_and_Devils\Priests-and-devils\Assets\Priests-and-devils.unity
+Unity文件：Homework2/Priests_and_Devils/Priests-and-devils/Assets/Priests-and-devils.unity
 
 ------------------------
 ## Homework3---Priests and Devils动作分离版
-Unity文件：Homework2\Priests_and_Devils\Priests-and-devils\Assets\Priests-and-devils.unity
+Unity文件：Homework3/Priests_and_Devils/Priests-and-devils/Assets/Priests-and-devils.unity
 
 ------------------------
 ## Homework4---Shoot UFO
-Unity文件：Homework2\Priests_and_Devils\Priests-and-devils\Assets\Priests-and-devils.unity
+Unity文件：HomeWork4---shoot_ufo/Assets/Resources/scene/task1.unity
