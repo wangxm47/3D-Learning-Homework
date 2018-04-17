@@ -11,23 +11,17 @@ public class Move : SSAction
     float startX;
     float targetX;
     float targetY;
-
+    float targetz;
     public override void Start()
     {
         speed = 5 + sceneControler.round * 3;//使速度随着轮数变化
-        startX = 5 - Random.value * 10;//使发射位置随机在（-5,5）
-        if (Random.value > 0.5)
-        {
-            targetX = 30;
-        }
-        else
-        {
-            targetX = -30;
-        }
+        startX = 8 - Random.value * 16;//使发射位置随机在（-10,10）
+        targetX =30- Random.value*60;
+        targetz = 25+Random.value*5;
         targetY = -5;
         this.transform.position = new Vector3(startX, 0, -5);
         target = new GameObject();//创建终点
-        target.transform.position = new Vector3(targetX, targetY, 30);
+        target.transform.position = new Vector3(targetX, targetY, targetz);
         //计算两者之间的距离  
         distanceToTarget = Vector3.Distance(this.transform.position, target.transform.position);
     }

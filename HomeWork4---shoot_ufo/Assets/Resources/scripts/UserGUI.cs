@@ -22,6 +22,7 @@ public class UserGUI : MonoBehaviour
         GUIStyle fontstyle1 = new GUIStyle();
         fontstyle1.fontSize = 50;
         fontstyle1.normal.textColor = new Color(255, 255, 255);
+        
         if (GUI.RepeatButton(new Rect(0, 0, 120, 40), "游戏规则"))
         {
             action.ShowDetail();
@@ -29,6 +30,7 @@ public class UserGUI : MonoBehaviour
         if (GUI.Button(new Rect(0, 60, 120, 40), "开始游戏"))
         {
             action.StartGame();
+
         }
         if (GUI.Button(new Rect(0, 120, 120, 40), "重新开始"))
         {

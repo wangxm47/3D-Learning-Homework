@@ -376,8 +376,7 @@ MonoBehaviour:
   game: 0
   num: 0
   lost: 0
-  CoolTimes: 3
-  restart: 0
+  StartTimes: 3
 --- !u!1 &483753329
 GameObject:
   m_ObjectHideFlags: 0
