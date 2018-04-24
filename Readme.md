@@ -13,3 +13,7 @@ Unity文件：Homework3/Priests_and_Devils/Priests-and-devils/Assets/Priests-and
 ------------------------
 ## Homework4---Shoot UFO
 Unity文件：HomeWork4---shoot_ufo/Assets/Resources/scene/task1.unity
+----------------------------------------------------
+## Homework5---物理版Shoot UFO
+Unity文件：同Homework4
+MP4：shoot_ufo_physics (2).mp4
