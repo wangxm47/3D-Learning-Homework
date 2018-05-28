@@ -19,3 +19,5 @@ MP4：shoot_ufo_physics (2).mp4
 Unity文件：/HomeWork6/New Unity Project/Assets/Resources/Task1.unity
 MP4：/HomeWork6/HomeWork6.MP4
 --------------------------------------------------------
+## Homework7---粒子光环
+Unity文件：/HomeWork7/Particles/Assets/ParticleHalo.unity
