@@ -21,3 +21,6 @@ MP4：/HomeWork6/HomeWork6.MP4
 --------------------------------------------------------
 ## Homework7---粒子光环
 Unity文件：/HomeWork7/Particles/Assets/ParticleHalo.unity
+---------------------------------------------------------
+## Homework8---血条
+Unity文件：1.UGUI实现：HomeWork8/New Unity Project/Assets/Task1-UGUI.unity 2.IMGUI实现：HomeWork8/New Unity Project/Assets/Task2-IMGUI.unity
